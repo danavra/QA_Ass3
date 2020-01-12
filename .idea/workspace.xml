@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65a2d26d-b8ba-459a-afa1-7cfbbe0ffb28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/MaxValueIndexTopDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/MaxValueTopDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/MinValueTopDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/PrintArrTopDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/CopyArrTopDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/MinValueIndexTopDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/SizeTopDown.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,52 +64,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MaxValueIndexTopDown.maxValueIndexWorks">
-    <configuration name="MaxValueIndexTopDown.maxValueIndexEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SizeTopDown.testSizeWorks">
+    <configuration name="CopyArrTopDown.copyArrEMPTY" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QA_Ass3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MaxValueIndexTopDown" />
-      <option name="METHOD_NAME" value="maxValueIndexEmpty" />
+      <option name="MAIN_CLASS_NAME" value="CopyArrTopDown" />
+      <option name="METHOD_NAME" value="copyArrEMPTY" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxValueIndexTopDown.maxValueIndexNULL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CopyArrTopDown.copyArrNULL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QA_Ass3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MaxValueIndexTopDown" />
-      <option name="METHOD_NAME" value="maxValueIndexNULL" />
+      <option name="MAIN_CLASS_NAME" value="CopyArrTopDown" />
+      <option name="METHOD_NAME" value="copyArrNULL" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxValueIndexTopDown.maxValueIndexWorks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CopyArrTopDown.copyArrWorks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QA_Ass3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MaxValueIndexTopDown" />
-      <option name="METHOD_NAME" value="maxValueIndexWorks" />
+      <option name="MAIN_CLASS_NAME" value="CopyArrTopDown" />
+      <option name="METHOD_NAME" value="copyArrWorks" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintArrTopDown.printArrWorks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SizeTopDown.testNullsize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QA_Ass3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PrintArrTopDown" />
-      <option name="METHOD_NAME" value="printArrWorks" />
+      <option name="MAIN_CLASS_NAME" value="SizeTopDown" />
+      <option name="METHOD_NAME" value="testNullsize" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintSortedTopDown.printSortedNULL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SizeTopDown.testSizeWorks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QA_Ass3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PrintSortedTopDown" />
-      <option name="METHOD_NAME" value="printSortedNULL" />
+      <option name="MAIN_CLASS_NAME" value="SizeTopDown" />
+      <option name="METHOD_NAME" value="testSizeWorks" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MaxValueIndexTopDown.maxValueIndexWorks" />
-        <item itemvalue="JUnit.MaxValueIndexTopDown.maxValueIndexEmpty" />
-        <item itemvalue="JUnit.MaxValueIndexTopDown.maxValueIndexNULL" />
-        <item itemvalue="JUnit.PrintSortedTopDown.printSortedNULL" />
-        <item itemvalue="JUnit.PrintArrTopDown.printArrWorks" />
+        <item itemvalue="JUnit.SizeTopDown.testSizeWorks" />
+        <item itemvalue="JUnit.SizeTopDown.testNullsize" />
+        <item itemvalue="JUnit.CopyArrTopDown.copyArrWorks" />
+        <item itemvalue="JUnit.CopyArrTopDown.copyArrEMPTY" />
+        <item itemvalue="JUnit.CopyArrTopDown.copyArrNULL" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +135,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578826282857</updated>
-      <workItem from="1578826284198" duration="16270000" />
+      <workItem from="1578826284198" duration="17044000" />
     </task>
     <task id="LOCAL-00001" summary="BOTTOM UP + PRINTSORTED TOP DOWN">
       <created>1578835416658</created>
@@ -166,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578844525936</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="stub accident fix">
+      <created>1578846448617</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578846448617</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,7 +194,8 @@
     <MESSAGE value="BOTTOM UP + PRINTSORTED TOP DOWN +is sorted" />
     <MESSAGE value="changed B_U swapEmpty (should be null)" />
     <MESSAGE value="sortArrayEMPTY fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="sortArrayEMPTY fix" />
+    <MESSAGE value="stub accident fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="stub accident fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
