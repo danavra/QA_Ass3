@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65a2d26d-b8ba-459a-afa1-7cfbbe0ffb28" name="Default Changelist" comment="BOTTOM UP + PRINTSORTED TOP DOWN">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/ProgramTest_BU.java" afterDir="false" />
+    <list default="true" id="65a2d26d-b8ba-459a-afa1-7cfbbe0ffb28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/IsSortedTopDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/MergeTopDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/PrintSortedTopDown.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/QA_Ass3/ProgramTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ProgramTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ProgramTest_BU.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ProgramTest_BU.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,64 +65,63 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.printSortedTopDown.printSorted_GOOD">
-    <configuration name="ProgramTest_BU.mergeALLREADYSORTED" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MergeTopDown.mergeNULL_NULL">
+    <configuration name="IsSortedTopDown.isSortedFALSE" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QA_Ass3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProgramTest_BU" />
-      <option name="METHOD_NAME" value="mergeALLREADYSORTED" />
+      <option name="MAIN_CLASS_NAME" value="IsSortedTopDown" />
+      <option name="METHOD_NAME" value="isSortedFALSE" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgramTest_BU.printSortedNULL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IsSortedTopDown.isSortedNULL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QA_Ass3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProgramTest_BU" />
-      <option name="METHOD_NAME" value="printSortedNULL" />
+      <option name="MAIN_CLASS_NAME" value="IsSortedTopDown" />
+      <option name="METHOD_NAME" value="isSortedNULL" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgramTest_BU.printSorted_GOOD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IsSortedTopDown.isSortedTRUE" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QA_Ass3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProgramTest_BU" />
-      <option name="METHOD_NAME" value="printSorted_GOOD" />
+      <option name="MAIN_CLASS_NAME" value="IsSortedTopDown" />
+      <option name="METHOD_NAME" value="isSortedTRUE" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printSortedTopDown.printSortedNULL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MergeTopDown.mergeNULL_NULL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QA_Ass3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="printSortedTopDown" />
-      <option name="METHOD_NAME" value="printSortedNULL" />
+      <option name="MAIN_CLASS_NAME" value="MergeTopDown" />
+      <option name="METHOD_NAME" value="mergeNULL_NULL" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printSortedTopDown.printSorted_GOOD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="isSortedTopDown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QA_Ass3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="printSortedTopDown" />
-      <option name="METHOD_NAME" value="printSorted_GOOD" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="isSortedTopDown" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.printSortedTopDown.printSorted_GOOD" />
-        <item itemvalue="JUnit.printSortedTopDown.printSortedNULL" />
-        <item itemvalue="JUnit.ProgramTest_BU.printSorted_GOOD" />
-        <item itemvalue="JUnit.ProgramTest_BU.printSortedNULL" />
-        <item itemvalue="JUnit.ProgramTest_BU.mergeALLREADYSORTED" />
+        <item itemvalue="JUnit.MergeTopDown.mergeNULL_NULL" />
+        <item itemvalue="JUnit.IsSortedTopDown.isSortedNULL" />
+        <item itemvalue="JUnit.IsSortedTopDown.isSortedFALSE" />
+        <item itemvalue="JUnit.IsSortedTopDown.isSortedTRUE" />
+        <item itemvalue="JUnit.isSortedTopDown" />
       </list>
     </recent_temporary>
   </component>
@@ -137,8 +135,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578826282857</updated>
-      <workItem from="1578826284198" duration="8912000" />
+      <workItem from="1578826284198" duration="10569000" />
     </task>
+    <task id="LOCAL-00001" summary="BOTTOM UP + PRINTSORTED TOP DOWN">
+      <created>1578835416658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578835416659</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,19 +169,24 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/printSortedTopDown.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/printSortedTopDown.java</url>
+          <url>file://$PROJECT_DIR$/test/PrintSortedTopDown.java</url>
           <line>31</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/printSortedTopDown.java</url>
+          <url>file://$PROJECT_DIR$/test/PrintSortedTopDown.java</url>
           <line>46</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/IsSortedTopDown.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/PrintSortedTopDown.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

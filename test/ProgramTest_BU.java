@@ -324,7 +324,6 @@ public class ProgramTest_BU {
         }catch (Exception e){
             fail("should not throw exceptions");
         }
-
     }
 
     @Test
