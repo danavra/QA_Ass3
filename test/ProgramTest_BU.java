@@ -238,7 +238,8 @@ public class ProgramTest_BU {
     public void sortArrayEMPTY() {
         try{
             int[] arr = {};
-            assertEquals("should be empty",0,Program.sortArray(arr).length);
+            int[] ans = ProgramStub7.sortArray(arr);
+            assertTrue("should be empty",ans != null && ans.length == 0);
         }catch (Exception e){
             fail("should not throw exceptions");
         }
