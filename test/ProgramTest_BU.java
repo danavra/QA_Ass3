@@ -207,7 +207,7 @@ public class ProgramTest_BU {
     public void swapMinMaxEMPTY() {
         try{
             int[] arr = {};
-            assertEquals("should be empty",0,Program.swapMinMax(arr).length);
+            assertNull("should be empty",Program.swapMinMax(arr));
         }catch (Exception e){
             fail("should not throw exceptions");
         }
