@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65a2d26d-b8ba-459a-afa1-7cfbbe0ffb28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/IsSortedTopDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/MergeTopDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/PrintSortedTopDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/SumMinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/SwapMinMax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/ProgramTest_BU.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ProgramTest_BU.java" afterDir="false" />
     </list>
@@ -65,63 +64,63 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MergeTopDown.mergeNULL_NULL">
-    <configuration name="IsSortedTopDown.isSortedFALSE" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ProgramTest_BU.swapMinMaxEMPTY">
+    <configuration name="ProgramTest_BU.swapMinMaxEMPTY" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QA_Ass3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IsSortedTopDown" />
-      <option name="METHOD_NAME" value="isSortedFALSE" />
+      <option name="MAIN_CLASS_NAME" value="ProgramTest_BU" />
+      <option name="METHOD_NAME" value="swapMinMaxEMPTY" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsSortedTopDown.isSortedNULL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SumMinMax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QA_Ass3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IsSortedTopDown" />
-      <option name="METHOD_NAME" value="isSortedNULL" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IsSortedTopDown.isSortedTRUE" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="QA_Ass3" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IsSortedTopDown" />
-      <option name="METHOD_NAME" value="isSortedTRUE" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeTopDown.mergeNULL_NULL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="QA_Ass3" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MergeTopDown" />
-      <option name="METHOD_NAME" value="mergeNULL_NULL" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="isSortedTopDown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="QA_Ass3" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="isSortedTopDown" />
+      <option name="MAIN_CLASS_NAME" value="SumMinMax" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumMinMax.sumMinMaxworks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QA_Ass3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SumMinMax" />
+      <option name="METHOD_NAME" value="sumMinMaxworks" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwapMinMax.swapMinMaxEMPTY" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QA_Ass3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SwapMinMax" />
+      <option name="METHOD_NAME" value="swapMinMaxEMPTY" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwapMinMax.swapMinMaxNULL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QA_Ass3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SwapMinMax" />
+      <option name="METHOD_NAME" value="swapMinMaxNULL" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MergeTopDown.mergeNULL_NULL" />
-        <item itemvalue="JUnit.IsSortedTopDown.isSortedNULL" />
-        <item itemvalue="JUnit.IsSortedTopDown.isSortedFALSE" />
-        <item itemvalue="JUnit.IsSortedTopDown.isSortedTRUE" />
-        <item itemvalue="JUnit.isSortedTopDown" />
+        <item itemvalue="JUnit.ProgramTest_BU.swapMinMaxEMPTY" />
+        <item itemvalue="JUnit.SwapMinMax.swapMinMaxEMPTY" />
+        <item itemvalue="JUnit.SwapMinMax.swapMinMaxNULL" />
+        <item itemvalue="JUnit.SumMinMax" />
+        <item itemvalue="JUnit.SumMinMax.sumMinMaxworks" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +134,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578826282857</updated>
-      <workItem from="1578826284198" duration="10569000" />
+      <workItem from="1578826284198" duration="13275000" />
     </task>
     <task id="LOCAL-00001" summary="BOTTOM UP + PRINTSORTED TOP DOWN">
       <created>1578835416658</created>
@@ -144,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578835416659</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="BOTTOM UP + PRINTSORTED TOP DOWN +is sorted">
+      <created>1578837322694</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578837322694</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,7 +169,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BOTTOM UP + PRINTSORTED TOP DOWN" />
-    <option name="LAST_COMMIT_MESSAGE" value="BOTTOM UP + PRINTSORTED TOP DOWN" />
+    <MESSAGE value="BOTTOM UP + PRINTSORTED TOP DOWN +is sorted" />
+    <option name="LAST_COMMIT_MESSAGE" value="BOTTOM UP + PRINTSORTED TOP DOWN +is sorted" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -187,6 +194,11 @@
           <url>file://$PROJECT_DIR$/test/PrintSortedTopDown.java</url>
           <line>68</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/SwapMinMax.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
