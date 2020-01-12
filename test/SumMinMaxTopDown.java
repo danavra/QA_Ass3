@@ -6,7 +6,7 @@ import java.util.stream.IntStream;
 
 import static org.junit.Assert.*;
 
-public class SumMinMax {
+public class SumMinMaxTopDown {
 
     @Test
     public void sumMinMaxNULL() {

@@ -7,7 +7,7 @@ import java.util.stream.IntStream;
 import static org.junit.Assert.*;
 import static org.junit.Assert.fail;
 
-public class SwapMinMax {
+public class SwapMinMaxTopDown {
 
     @Test
     public void swapMinMaxNULL() {

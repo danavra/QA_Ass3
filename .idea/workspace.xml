@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65a2d26d-b8ba-459a-afa1-7cfbbe0ffb28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/SumMinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/SwapMinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/EqualsArrayTopDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/SortArrayTopDown.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ProgramTest_BU.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ProgramTest_BU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SumMinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/SumMinMaxTopDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SwapMinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/SwapMinMaxTopDown.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,51 +65,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ProgramTest_BU.swapMinMaxEMPTY">
-    <configuration name="ProgramTest_BU.swapMinMaxEMPTY" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ProgramTest_BU.sortArrayEMPTY">
+    <configuration name="EqualsArrayTopDown.equalArraysEmptyAndEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QA_Ass3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EqualsArrayTopDown" />
+      <option name="METHOD_NAME" value="equalArraysEmptyAndEquals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EqualsArrayTopDown.equalArraysNotEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QA_Ass3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EqualsArrayTopDown" />
+      <option name="METHOD_NAME" value="equalArraysNotEquals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramTest_BU.sortArrayEMPTY" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QA_Ass3" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ProgramTest_BU" />
-      <option name="METHOD_NAME" value="swapMinMaxEMPTY" />
+      <option name="METHOD_NAME" value="sortArrayEMPTY" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumMinMax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SortArrayTopDown.sortArrayEMPTY" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QA_Ass3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SumMinMax" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumMinMax.sumMinMaxworks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="QA_Ass3" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SumMinMax" />
-      <option name="METHOD_NAME" value="sumMinMaxworks" />
+      <option name="MAIN_CLASS_NAME" value="SortArrayTopDown" />
+      <option name="METHOD_NAME" value="sortArrayEMPTY" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapMinMax.swapMinMaxEMPTY" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SortArrayTopDown.sortArrayNULL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QA_Ass3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SwapMinMax" />
-      <option name="METHOD_NAME" value="swapMinMaxEMPTY" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwapMinMax.swapMinMaxNULL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="QA_Ass3" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SwapMinMax" />
-      <option name="METHOD_NAME" value="swapMinMaxNULL" />
+      <option name="MAIN_CLASS_NAME" value="SortArrayTopDown" />
+      <option name="METHOD_NAME" value="sortArrayNULL" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ProgramTest_BU.swapMinMaxEMPTY" />
-        <item itemvalue="JUnit.SwapMinMax.swapMinMaxEMPTY" />
-        <item itemvalue="JUnit.SwapMinMax.swapMinMaxNULL" />
-        <item itemvalue="JUnit.SumMinMax" />
-        <item itemvalue="JUnit.SumMinMax.sumMinMaxworks" />
+        <item itemvalue="JUnit.ProgramTest_BU.sortArrayEMPTY" />
+        <item itemvalue="JUnit.SortArrayTopDown.sortArrayEMPTY" />
+        <item itemvalue="JUnit.SortArrayTopDown.sortArrayNULL" />
+        <item itemvalue="JUnit.EqualsArrayTopDown.equalArraysEmptyAndEquals" />
+        <item itemvalue="JUnit.EqualsArrayTopDown.equalArraysNotEquals" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +136,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578826282857</updated>
-      <workItem from="1578826284198" duration="13275000" />
+      <workItem from="1578826284198" duration="14479000" />
     </task>
     <task id="LOCAL-00001" summary="BOTTOM UP + PRINTSORTED TOP DOWN">
       <created>1578835416658</created>
@@ -150,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578837322694</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="changed B_U swapEmpty (should be null)">
+      <created>1578843263063</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578843263063</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +179,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BOTTOM UP + PRINTSORTED TOP DOWN" />
     <MESSAGE value="BOTTOM UP + PRINTSORTED TOP DOWN +is sorted" />
-    <option name="LAST_COMMIT_MESSAGE" value="BOTTOM UP + PRINTSORTED TOP DOWN +is sorted" />
+    <MESSAGE value="changed B_U swapEmpty (should be null)" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed B_U swapEmpty (should be null)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -196,9 +206,19 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/SwapMinMax.java</url>
+          <url>file://$PROJECT_DIR$/test/SwapMinMaxTopDown.java</url>
           <line>48</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/SwapMinMaxTopDown.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/SortArrayTopDown.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
