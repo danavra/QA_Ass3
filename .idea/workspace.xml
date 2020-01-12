@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65a2d26d-b8ba-459a-afa1-7cfbbe0ffb28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/EqualsArrayTopDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/SortArrayTopDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/MaxValueIndexTopDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/MaxValueTopDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/MinValueTopDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/PrintArrTopDown.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SumMinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/SumMinMaxTopDown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SwapMinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/SwapMinMaxTopDown.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,52 +65,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ProgramTest_BU.sortArrayEMPTY">
-    <configuration name="EqualsArrayTopDown.equalArraysEmptyAndEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MaxValueIndexTopDown.maxValueIndexWorks">
+    <configuration name="MaxValueIndexTopDown.maxValueIndexEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QA_Ass3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EqualsArrayTopDown" />
-      <option name="METHOD_NAME" value="equalArraysEmptyAndEquals" />
+      <option name="MAIN_CLASS_NAME" value="MaxValueIndexTopDown" />
+      <option name="METHOD_NAME" value="maxValueIndexEmpty" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualsArrayTopDown.equalArraysNotEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MaxValueIndexTopDown.maxValueIndexNULL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QA_Ass3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EqualsArrayTopDown" />
-      <option name="METHOD_NAME" value="equalArraysNotEquals" />
+      <option name="MAIN_CLASS_NAME" value="MaxValueIndexTopDown" />
+      <option name="METHOD_NAME" value="maxValueIndexNULL" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgramTest_BU.sortArrayEMPTY" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MaxValueIndexTopDown.maxValueIndexWorks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QA_Ass3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProgramTest_BU" />
-      <option name="METHOD_NAME" value="sortArrayEMPTY" />
+      <option name="MAIN_CLASS_NAME" value="MaxValueIndexTopDown" />
+      <option name="METHOD_NAME" value="maxValueIndexWorks" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortArrayTopDown.sortArrayEMPTY" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrintArrTopDown.printArrWorks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QA_Ass3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SortArrayTopDown" />
-      <option name="METHOD_NAME" value="sortArrayEMPTY" />
+      <option name="MAIN_CLASS_NAME" value="PrintArrTopDown" />
+      <option name="METHOD_NAME" value="printArrWorks" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortArrayTopDown.sortArrayNULL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrintSortedTopDown.printSortedNULL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QA_Ass3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SortArrayTopDown" />
-      <option name="METHOD_NAME" value="sortArrayNULL" />
+      <option name="MAIN_CLASS_NAME" value="PrintSortedTopDown" />
+      <option name="METHOD_NAME" value="printSortedNULL" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ProgramTest_BU.sortArrayEMPTY" />
-        <item itemvalue="JUnit.SortArrayTopDown.sortArrayEMPTY" />
-        <item itemvalue="JUnit.SortArrayTopDown.sortArrayNULL" />
-        <item itemvalue="JUnit.EqualsArrayTopDown.equalArraysEmptyAndEquals" />
-        <item itemvalue="JUnit.EqualsArrayTopDown.equalArraysNotEquals" />
+        <item itemvalue="JUnit.MaxValueIndexTopDown.maxValueIndexWorks" />
+        <item itemvalue="JUnit.MaxValueIndexTopDown.maxValueIndexEmpty" />
+        <item itemvalue="JUnit.MaxValueIndexTopDown.maxValueIndexNULL" />
+        <item itemvalue="JUnit.PrintSortedTopDown.printSortedNULL" />
+        <item itemvalue="JUnit.PrintArrTopDown.printArrWorks" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +136,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578826282857</updated>
-      <workItem from="1578826284198" duration="14479000" />
+      <workItem from="1578826284198" duration="16270000" />
     </task>
     <task id="LOCAL-00001" summary="BOTTOM UP + PRINTSORTED TOP DOWN">
       <created>1578835416658</created>
@@ -159,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578843263063</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="sortArrayEMPTY fix">
+      <created>1578844525936</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578844525936</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,7 +187,8 @@
     <MESSAGE value="BOTTOM UP + PRINTSORTED TOP DOWN" />
     <MESSAGE value="BOTTOM UP + PRINTSORTED TOP DOWN +is sorted" />
     <MESSAGE value="changed B_U swapEmpty (should be null)" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed B_U swapEmpty (should be null)" />
+    <MESSAGE value="sortArrayEMPTY fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="sortArrayEMPTY fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -219,6 +227,11 @@
           <url>file://$PROJECT_DIR$/test/SortArrayTopDown.java</url>
           <line>41</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/ProgramTest_BU.java</url>
+          <line>238</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
